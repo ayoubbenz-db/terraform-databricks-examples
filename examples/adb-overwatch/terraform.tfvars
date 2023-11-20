@@ -1,7 +1,7 @@
 subscription_id = ""
 tenant_id = ""
 overwatch_spn_app_id = ""
-overwatch_spn_secret = ""
+overwatch_spn_secret = "12783nfmdsmaklnexcvbsgntreq"
 ehn_name = ""
 logs_sa_name = ""
 ow_sa_name = ""
